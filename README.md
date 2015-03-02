@@ -1,1 +1,3 @@
 # SICP
+The SICP challenge continues....
+I am trying to give up my habbit of not finishing things I start. Few months ago I bought the SICP book but could never go past the second chapter. So I am putting up the exercices that I do from now on so that the pressure of a public failure can make me kick this habbit. Wish me luck!
